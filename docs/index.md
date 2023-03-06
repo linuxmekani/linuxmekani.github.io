@@ -1,4 +1,6 @@
-# Linux Mekanı'na Hoş Geldiniz
+-----------------------------------
+title: Linux Mekanı'na Hoş Geldiniz
+-----------------------------------
 
 [GitHub Sayfası](https://github.com/linuxmekani)
 
